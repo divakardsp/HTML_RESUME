@@ -3,7 +3,8 @@ Here is the Screenshot of the resume:
 
 
 For Cloning my html file into your system follow these steps:
-1.Make a directory in your system where you wan the file.
+
+1.Make a directory in your system where you want the file.
 
 2.Open your directory in the IDE(VS code).
 
